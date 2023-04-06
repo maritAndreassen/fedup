@@ -1,4 +1,4 @@
-# fedup
+# Fed Up
 
 This repository is a resit assignment for the course Content Management System at Noroff.
 
